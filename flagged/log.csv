@@ -1,0 +1,2 @@
+Interest Rate	Installment	Log Annual Income	DTI Ratio	FICO Score	Revolving Balance	Revolving Utilization	Inquiries in Last 6 Months	Delinquencies in Last 2 Years	Public Records	Installment to Income Ratio	Credit History	output	flag	username	timestamp
+0.06	100	7	0	600	0	0	2	10	0	1.3	0.39	{"label":"Loan fully paid","confidences":null}			2024-02-04 22:59:18.825673
